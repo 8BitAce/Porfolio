@@ -1,0 +1,7 @@
+modalID: 4
+title: Geon
+img: geon.png
+client: GitHub
+clientLink: "https://github.com/8BitAce/Geon"
+category: Role-Playing Game
+description: A small (yet difficult) tile-based game created as practice in implementing OOP patterns and practices.

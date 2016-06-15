@@ -1,0 +1,7 @@
+modalID: 3
+title: PPExport
+img: ppexport.png
+client: GitHub
+clientLink: "https://github.com/8BitAce/PPExport"
+category: Utility
+description: Small GUI-driven Python application for exporting PowerPoint presentations into images of chosen dimensions using Windows COM objects. Great with PiShow!

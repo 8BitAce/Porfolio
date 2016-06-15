@@ -1,0 +1,7 @@
+modalID: 2
+title: PyWut
+img: pywut.png
+client: 
+clientLink: ""
+category: Compiler
+description: An implementation of the Brainfu*k esoteric programming language in Python. Allows for customizable keywords.

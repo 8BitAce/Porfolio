@@ -1,0 +1,7 @@
+modalID: 6
+title: ProQuest2Bepress
+img: p2b.png
+client: GitHub
+clientLink: "https://github.com/8BitAce/ProQuest2Bepress"
+category: Data Migration
+description: Robust Python application that eases a libraries transition of data from ProQuest into Bepress.
